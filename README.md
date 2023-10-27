@@ -1,2 +1,2 @@
 # C-More_Complete_Programs
-posting more complete C source files here.
+Posting more complete C source files here.
