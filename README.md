@@ -1,2 +1,2 @@
-# C-More_Complete_Programs
-Posting more complete C source files here.
+# CHowToP-Prog
+Posting C How to Program assignments, exams, and small programs here. 
